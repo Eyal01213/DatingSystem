@@ -8,8 +8,6 @@ public class User {
     private int age;
     private Gender gender;
 
-
-
     public User() {
     }
 
